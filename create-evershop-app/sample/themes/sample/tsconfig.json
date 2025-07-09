@@ -18,10 +18,7 @@
     "strictNullChecks": true,
     "isolatedModules": false,
     "baseUrl": ".",
-    "rootDir": "./src",
-    "paths": {
-      "@components/*": ["./src/components/*"]
-    }
+    "rootDir": "./src"
   },
   "include": ["src"]
 }
